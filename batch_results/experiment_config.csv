@@ -1,2 +1,2 @@
 num_trials,lambda_tradeoff,alpha,threshold,risk_limit,routing_mode
-10,0.5,0.3,0.1,1.5,time_aware
+10,1,0.3,0.1,1.5,time_aware
